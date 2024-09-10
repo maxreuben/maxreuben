@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 👀 I’m a Computer Science Graduate Student with a keen interest in mobile technologies, software architecture, and system design.
 - 🌱 I’m currently diving deep into iOS development, Swift, and exploring the latest in mobile payment solutions and accessible UI design.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of mobile technology and create impactful user experiences.
-- 📫 Reach out to me via email at [reubensv97@gmail.com](mailto:reubensv97@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
+- 📫 Reach out to me via email at [reubens0823@gmail.com](mailto:reubens0823@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading poetry.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 - ✨ Interests: Swarm Intelligence, Ethical and Explainable AI/ML, FinTech, Blockchain, Mobile Payments, Accessible UI, NLP, Computer Vision, Data Privacy
 
 ## Let's Connect!
-- 📧 Email: [reubensv97@gmail.com](mailto:reubensv97@gmail.com)
+- 📧 Email: [reubens0823@gmail.com](mailto:reubens0823@gmail.com)
 - 🔗 LinkedIn: [reuben-s-varghese](https://www.linkedin.com/in/reuben-s-varghese)
 - 🌐 GitHub: [maxreuben](https://github.com/maxreuben)
 

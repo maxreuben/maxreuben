@@ -8,15 +8,16 @@ Welcome to my GitHub profile!
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of mobile technology and create impactful user experiences.
 - 📫 Reach out to me via email at [reubens0823@gmail.com](mailto:reubens0823@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading poetry.
+- ⚡ Fun fact about me: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading poetry.
+- 🌎 Fun fact about you: By the numbers, there are more bacterial cells 🦠 in your body 🫀 than your own. 👀
 
 ## Professional Journey
 - 🎓 Master's in Computer Science (AI/ML specialization) from Rutgers University.
 - 🎓 Bachelor of Technology in Computer Science & Engineering from National Institute of Technology Calicut.
-- 🛠️ Experienced in iOS development, with projects like Cytric Mobile and Cytric Pay under my belt.
+- 🛠️ Experienced in iOS development, with projects like M&T Bank, Cytric Mobile and Cytric Pay under my belt.
 
 ## Technical Skills
-- 💻 Languages: Python, Swift, Ruby, Bash, C++, HTML, SQL, Objective-C, Javascript, Java
+- 💻 Languages: Python, Swift, Ruby, Bash, Objective-C, PHP, C++, HTML, SQL, Javascript, Java
 - 🛠️ Frameworks/Tools: UIKit, SwiftUI, Combine, Cocoa Touch, Core Data, Core Animation, RxSwift, Firebase, React.js, Vue.js, Spring Boot, React Native
 - ✨ Interests: Swarm Intelligence, Ethical and Explainable AI/ML, FinTech, Blockchain, Mobile Payments, Accessible UI, NLP, Computer Vision, Data Privacy
 

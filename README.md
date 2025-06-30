@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 📫 Reach out to me via email at [reubens0823@gmail.com](mailto:reubens0823@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
 - 😄 Pronouns: He/Him
 - View my portfolio at: [reubensv.me/#projects](https://reubensv.me/#projects)
-- ⚡ Fun fact about me: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading poetry.
+- ⚡ Fun fact about me: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading a book.
 - 🌎 Fun fact about you: By the numbers, there are more bacterial cells 🦠 in your body 🫀 than your own. 👀
 
 ## Professional Journey

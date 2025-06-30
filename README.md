@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 👀 I’m a Computer Science Graduate Student with a keen interest in mobile technologies, software architecture, and system design.
-- 🌱 I’m currently diving deep into iOS development, Swift, and exploring the latest in mobile payment solutions and accessible UI design at HCLTech on behalf of M&T Bank.
+- 🎓 I’m a Computer Science Graduate Student with a keen interest in mobile technologies, software architecture, and system design.
+- 📲 I’m currently diving deep into iOS development, Swift, and exploring the latest in mobile payment solutions and accessible UI design at HCLTech on behalf of M&T Bank.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of mobile technology and create impactful user experiences.
 - 📫 Reach out to me via email at [reubens0823@gmail.com](mailto:reubens0823@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
 - 😄 Pronouns: He/Him
@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## Technical Skills
 - 💻 Languages: Python, Swift, Ruby, Bash, Objective-C, PHP, C++, HTML, SQL, Javascript, Java, Kotlin, Dart
-- 🛠️ Frameworks/Tools: UIKit, SwiftUI, Combine, Cocoa Touch, Core Data, Core Animation, RxSwift, Firebase, React.js, Vue.js, Spring Boot, React Native, Flutter, Node.js, ExpressJS, EJS, RubyOnRails, Wordpress
+- 🛠️ Frameworks/Tools: UIKit, SwiftUI, Combine, Cocoa Touch, Core Data, Core Animation, RxSwift, Firebase, React.js, Vue.js, Vite, Spring Boot, React Native, Flutter, Node.js, ExpressJS, EJS, RubyOnRails, Wordpress, Laravel
 - ✨ Interests: Swarm Intelligence, Ethical and Explainable AI/ML, FinTech, Blockchain, Mobile Payments, Accessible UI, NLP, Computer Vision, Data Privacy
 
 ## Let's Connect!

@@ -24,6 +24,6 @@ Welcome to my GitHub profile!
 
 ## Let's Connect!
 - 📧 Email: [reubens0823@gmail.com](mailto:reubens0823@gmail.com)
--  <img width="18" height="18" alt="linkedin-icon" src="https://github.com/user-attachments/assets/92e6415d-2795-40b8-af42-a5417c6c744a"/>&nbsp; LinkedIn: [reuben-s-varghese](https://www.linkedin.com/in/reuben-s-varghese)
--  <img width="18" height="18" alt="github-icon" src="https://github.com/user-attachments/assets/16143ef5-5649-4978-a0a1-97dbb60584f3"/>&nbsp; GitHub: [maxreuben](https://github.com/maxreuben)
+-  <img width="18" height="18" alt="linkedin-icon" src="https://github.com/user-attachments/assets/92e6415d-2795-40b8-af42-a5417c6c744a"/> LinkedIn: [reuben-s-varghese](https://www.linkedin.com/in/reuben-s-varghese)
+-  <picture><source media="(prefers-color-scheme: light)" width="18" height="18" alt="github-mark" srcset="https://github.com/user-attachments/assets/017688d7-c867-4807-a3da-be9053455753" ><source media="(prefers-color-scheme: dark)" width="18" height="18" alt="github-mark-white" srcset="https://github.com/user-attachments/assets/f4120a2c-291d-44f6-bd64-0d90be32a26e"><img alt="github-mark" src="https://github.com/user-attachments/assets/017688d7-c867-4807-a3da-be9053455753"></picture> GitHub: [maxreuben](https://github.com/maxreuben)
 

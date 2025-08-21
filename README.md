@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 😄 Pronouns: He/Him
 - 📔 View my portfolio at: [reubensv.me/#projects](https://reubensv.me/#projects)
 - ⚡ Fun fact about me: When I'm not coding, I'm probably listening to indie rock, playing badminton, or reading a book.
-- ❗ Fun fact about you: By the numbers, there are more bacterial cells 🦠 in your body 🫀 than your own.
+- ❗ Fun fact about you: By the numbers, there are more bacterial cells 🦠 in your body than your own.
 
 ## Professional Journey
 - 🎓 Master's in Computer Science (AI/ML specialization) from Rutgers University.

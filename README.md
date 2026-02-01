@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 🎓 I’m a Computer Science Graduate Student with a keen interest in mobile technologies, software architecture, and system design.
-- 📲 I’m currently diving deep into iOS development, Swift, and exploring the latest in mobile payment solutions and accessible UI design at M&T Bank on behalf of HCLTech.
+- 📲 I’m currently diving deep into iOS development, Swift, and exploring the latest in Health & Fitness tracking at Fitbit (a Google Company).
 - 🤝 I’m looking to collaborate on innovative projects that push the boundaries of mobile technology and create impactful user experiences.
 - 📫 Reach out to me via email at [reubens0823@gmail.com](mailto:reubens0823@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/reuben-s-varghese).
 - 😄 Pronouns: He/Him
